@@ -1,6 +1,6 @@
 <?php
     
-    $username = "forqa_dev";
+    $username = "agentb_main";
     $password = "82N[nw,p!hXA4)\\j^.%/z6u*";
     $database = "forqa_dev";
     
